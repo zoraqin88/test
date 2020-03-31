@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 编码接口
  *
- * @author liushimin
+ * @author test
  */
 @RequestMapping(value = "/api/store/code")
 @RestController
